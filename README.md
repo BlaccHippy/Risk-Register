@@ -12,7 +12,9 @@ The risk register documentation process allowed me to consider and analyze the r
 
 ### Tools Used
 
-- Risk Register Documentation 
+- Risk Register Documentation
+- Each category is scaled from 1-3. 1 being least on the scale and 3 being the highest.
+- Priority results are calculated by multiplying likelihood and severity.
 
 
 
