@@ -1,4 +1,4 @@
-# Risk-Register-
+# Risk-Register
 
 ## Objective
 The risk register documentation process allowed me to consider and analyze the risk levels of business functions and characteristics in order to prioritize how they are handled. 
